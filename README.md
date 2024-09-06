@@ -1,7 +1,9 @@
 # Nutrition Tracking System - Database Implementation 🍎
 
 ## Overview
-This repository contains the SQL scripts and documentation for the Nutrition Tracking System, developed by Project Team-3. The purpose of this database is to support users in managing their nutrition and fitness goals by tracking their progress, dietary habits, exercise routines, and consistency. The system provides comprehensive summaries of daily, weekly, and monthly activities, helping users to maintain motivation and achieve healthier lifestyle choices.
+This repository contains the SQL scripts and documentation for the Nutrition Tracking System, developed by Project Team-3. The purpose of this database is to support users in managing their nutrition and fitness goals by tracking their progress, dietary habits, exercise routines, and consistency. The system provides comprehensive daily, weekly, and monthly summaries, helping users maintain motivation and achieve healthier lifestyle choices.
+
+This project is a comprehensive Nutrition Management system that leverages database technologies and data visualization tools. It utilizes Microsoft SQL Server for backend data management, implementing advanced SQL features such as functions, triggers, and stored procedures. The project incorporates DBeaver for database administration and query execution. Finally, it employs Tableau for creating interactive dashboards, enabling stakeholders to visualize and analyze nutrition-related data effectively
 
 ## Purpose 🎯
 The database is designed to:
